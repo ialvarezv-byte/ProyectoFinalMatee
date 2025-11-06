@@ -2,9 +2,6 @@ Autores: Luis M. Barillas Del Cid y Ivan Alvarez
 Universidad Mariano Gálvez
 Fecha: Noviembre 2025
 
-
-
-
 Este proyecto implementa una aplicación en Python que permite:
 
 Crear un árbol con raíz
